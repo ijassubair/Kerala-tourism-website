@@ -80,7 +80,7 @@ function phonevalidate(){
         return true;
     }
     else{
-        alert("please enter a valid phone number")
+        //alert("please enter a valid phone number")
         return false;
 	}
 
